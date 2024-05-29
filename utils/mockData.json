@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "66450446fa198c8fc4110662",
+    "question": "Nguyễn Ái Quốc sang quốc gia nào sau khi rời khỏi Xiêm La?",
+    "answers": ["Liên Xô", "Trung Quốc", "Pháp", "Nhật Bản"],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411066a",
+    "question": "Nguyễn Ái Quốc được đưa tin là đã mất vì căn bệnh gì?",
+    "answers": ["Đau tim", "Ung thư", "Lao phổi", "Sốt xuất huyết"],
+    "correct": 0,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110634",
+    "question": "Năm 1911, Nguyễn Tất Thành đã làm gì?",
+    "answers": [
+      "Tham gia khởi nghĩa Yên Thái",
+      "Quyết định ra đi tìm đường cứu nước",
+      "Gia nhập Hội Việt Nam Quang Phục",
+      "Tham gia phong trào Duy Tân"
+    ],
+    "correct": 0,
+    "createdAt": "2024-05-15T18:51:50.572Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411064c",
+    "question": "Năm 1920, Nguyễn Ái Quốc đọc tác phẩm nào về vấn đề dân tộc và thuộc địa của Lenin?",
+    "answers": [
+      "Luận cương về chủ nghĩa xã hội",
+      "Quốc đảng",
+      "Luận cương về vấn đề dân tộc và thuộc địa",
+      "Quốc xã"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.576Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411065f",
+    "question": "Nguyễn Ái Quốc rời khỏi Vương quốc Xiêm La vào thời gian nào?",
+    "answers": [
+      "Cuối năm 1930",
+      "Đầu năm 1928",
+      "Cuối năm 1929",
+      "Đầu năm 1930"
+    ],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411068d",
+    "question": "Một trong những kết quả của Hội nghị lần thứ 8 (mở rộng) của Trung ương Đảng là gì?",
+    "answers": [
+      "Thành lập quân đội mới",
+      "Tuyên bố độc lập",
+      "Sáng lập chính phủ mới",
+      "Nghị quyết về việc thành lập Việt Nam Độc lập Đồng minh (Việt Minh)"
+    ],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110632",
+    "question": "Bác Hồ có bao nhiêu anh chị em ruột?",
+    "answers": ["4", "3", "2", "5"],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.572Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411063b",
+    "question": "Nguyễn Tất Thành đã ở Hoa Kỳ trong khoảng thời gian nào?",
+    "answers": [
+      "Đầu 1913 cuối 1914",
+      "Cuối 1911 đầu 1912",
+      "Cuối 1912 cuối 1913",
+      "Đầu 1912 - cuối 1913"
+    ],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.574Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110671",
+    "question": "Vai trò của Nguyễn Ái Quốc tại Đại hội lần thứ 7 Đệ Tam Quốc tế là gì?",
+    "answers": [
+      "Tổ chức viên",
+      "Tham dự viên",
+      "Quan sát viên",
+      "Phát ngôn viên"
+    ],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110683",
+    "question": "Nguyễn Ái Quốc chính thức trở về Việt Nam vào ngày nào?",
+    "answers": [
+      "Ngày 28 tháng 1 năm 1941",
+      "Ngày 5 tháng 2 năm 1941",
+      "Ngày 15 tháng 1 năm 1941",
+      "Ngày 20 tháng 1 năm 1941"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411063e",
+    "question": "Nguyễn Tất Thành đã sống và hoạt động ở nước nào từ cuối năm 1917 đến năm 1923?",
+    "answers": ["Anh", "Nga", "Pháp", "Hoa Kỳ"],
+    "correct": 0,
+    "createdAt": "2024-05-15T18:51:50.575Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110673",
+    "question": "Nguyễn Ái Quốc bị buộc phải ở Liên Xô cho đến năm nào?",
+    "answers": ["1939", "1938", "1937", "1936"],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110679",
+    "question": "Khi trở lại Trung Quốc vào năm 1938, Nguyễn Ái Quốc đảm nhận vai trò gì trong Bát lộ quân?",
+    "answers": ["Đại tá", "Thiếu úy", "Thiếu tá", "Đại úy"],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411068b",
+    "question": "Hội nghị lần thứ 8 (mở rộng) của Trung ương Đảng được chủ trì bởi Nguyễn Ái Quốc diễn ra vào thời gian nào?",
+    "answers": [
+      "Từ ngày 10 đến ngày 19 tháng 5 năm 1941",
+      "Tháng 3 năm 1941",
+      "Tháng 9 năm 1941",
+      "Tháng 7 năm 1941"
+    ],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411067a",
+    "question": "Nguyễn Ái Quốc đến công tác tại văn phòng Bát lộ quân ở đâu?",
+    "answers": ["Côn Minh", "Diên An", "Quý Dương", "Quế Lâm"],
+    "correct": 3,
+    "createdAt": "2024-05-15T18:51:50.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110659",
+    "question": "Nguyễn Ái Quốc rời Trung Quốc vì lí do nào?",
+    "answers": [
+      "Tưởng Giới Thạch khủng bố các nhà cách mạng cộng sản",
+      "Thành lập Đảng Cộng sản Nam Hải",
+      "Được cử đi Pháp",
+      "Bị bắt"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411064f",
+    "question": "Tại Hội nghị lần thứ nhất Quốc tế Nông dân, Nguyễn Ái Quốc được bầu vào vị trí nào?",
+    "answers": [
+      "Cục Phương Nam",
+      "Ban Phương Đông",
+      "Đoàn Chủ tịch",
+      "Ban Chấp hành"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.576Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411065d",
+    "question": "Mục đích chính của việc của Nguyễn Ái Quốc tại Xiêm La là gì?",
+    "answers": [
+      "Buôn bán",
+      "Nghiên cứu",
+      "Tuyên truyền và huấn luyện cho Việt kiều",
+      "Dạy học"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411066c",
+    "question": "Ngày nào Nguyễn Ái Quốc được thả ra?",
+    "answers": [
+      "28 tháng 12 năm 1932",
+      "20 tháng 6 năm 1932",
+      "1 tháng 5 năm 1933",
+      "15 tháng 10 năm 1931"
+    ],
+    "correct": 0,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110664",
+    "question": "Đảng Cộng sản Đông Dương bị cấm hoạt động sau sự kiện gì?",
+    "answers": [
+      "Khởi nghĩa Xô viết Nghệ Tĩnh",
+      "Cuộc biểu tình chống Pháp",
+      "Cuộc nổi dậy ở Nghệ An",
+      "Tổ chức Đảng Cách mạng Việt Nam"
+    ],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110668",
+    "question": "Nguyên nhân Nguyễn Ái Quốc bị bắt giam là gì?",
+    "answers": [
+      "Tổ chức cuộc biểu tình",
+      "Tình tiết giả mạo",
+      "Âm mưu chống lại chính quyền Pháp",
+      "Dây dưa với các phe phái"
+    ],
+    "correct": 0,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110651",
+    "question": "Theo Nguyễn Ái Quốc, chủ nghĩa dân tộc đã gây ra những cuộc nổi dậy nào?",
+    "answers": [
+      "Cuộc nổi dậy chống thuế năm 1908",
+      "Cuộc nổi dậy chống thuế năm 1912",
+      "Cuộc nổi dậy chống thuế năm 1915",
+      "Cuộc nổi dậy chống thuế năm 1910"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.576Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110686",
+    "question": "Suối lớn chảy qua hang Cốc Bó được Nguyễn Ái Quốc gọi là gì?",
+    "answers": [
+      "Suối Đại Đạo",
+      "Suối CácMác",
+      "Suối Lênin",
+      "Suối Hồ Chí Minh"
+    ],
+    "correct": 1,
+    "createdAt": "2024-05-15T18:51:50.579Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411063f",
+    "question": "Năm nào Nguyễn Tất Thành trở lại nước Pháp từ Hoa Kỳ?",
+    "answers": ["1917", "1919", "1916", "1918"],
+    "correct": 3,
+    "createdAt": "2024-05-15T18:51:50.575Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110690",
+    "question": "Nguyễn Ái Quốc đại diện cho tổ chức nào khi sang Trung Quốc?",
+    "answers": [
+      "Cả Việt Minh và Hội Quốc tế Phản Xâm lược Việt Nam",
+      "Hội Quốc tế Phản Xâm lược Việt Nam",
+      "Việt Nam Độc lập",
+      "Hội Quốc tế Phản Xâm lược"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411065e",
+    "question": "Nguyễn Ái Quốc xuất bản báo gì gửi về nước khi ở Xiêm La?",
+    "answers": ["Báo Đỏ", "Báo Lửa", "Báo Cửu Trùng", "Báo Phương Đông"],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.577Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc411068f",
+    "question": "Ngày Nguyễn Ái Quốc lấy tên Hồ Chí Minh, ông sang quốc gia nào?",
+    "answers": ["Việt Nam", "Campuchia", "Trung Quốc", "Lào"],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.580Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110670",
+    "question": "Nguyễn Ái Quốc tham gia Đại hội lần thứ 7 Đệ Tam Quốc tế vào năm nào?",
+    "answers": ["1934", "1935", "1936", "1932"],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110677",
+    "question": "Hồ Chí Minh trong giai đoạn này đảm nhiệm công việc gì?",
+    "answers": [
+      "Phê phán tư tưởng",
+      "Lãnh đạo hoạt động cách mạng",
+      "Liên lạc với Quốc tế Cộng sản",
+      "Tổng Bí thư Đảng"
+    ],
+    "correct": 2,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "66450446fa198c8fc4110669",
+    "question": "Tờ báo nào đưa tin Nguyễn Ái Quốc đã chết và tố cáo âm mưu của thực dân Pháp và Anh?",
+    "answers": ["The Guardian", "The New York Times", "Le Monde", "L'Humanité"],
+    "correct": 0,
+    "createdAt": "2024-05-15T18:51:50.578Z",
+    "__v": 0
+  }
+]
